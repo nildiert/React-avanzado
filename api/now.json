@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "name": "petgram-server-nildiert",
-  "alias": ["petgram-api"],
+  "name": "react-avanzado",
+  "alias": ["petgram-server-nildiert"],
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "routes": [{
     "headers": {
